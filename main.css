@@ -9,6 +9,9 @@ body {
     color: darkgreen;
   }
 
+  h1 span{
+      color: red;
+  }
   #coin {
     position: relative;
     margin: 0 auto;
